@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "846347548776",
+    "project_id": "mticommunitiy",
+    "storage_bucket": "mticommunitiy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846347548776:android:305c11f4aefe6da6eca3dd",
+        "android_client_info": {
+          "package_name": "cloud.osamagamil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846347548776-lshr91ieabug540mooqum6uhqd2vt7s0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cloud.osamagamil",
+            "certificate_hash": "28ead12a7678abb5545f679df9e1c87a958de2df"
+          }
+        },
+        {
+          "client_id": "846347548776-i2knvphiac1mmogdnm7305f280k7d0vo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS1k8XsLlOF9l0FvS02H4FtQRS44IUfw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "846347548776-i2knvphiac1mmogdnm7305f280k7d0vo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
